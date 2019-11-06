@@ -1,0 +1,32 @@
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\bin\Debug\LR_5.exe.config
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\bin\Debug\LR_5.exe
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\bin\Debug\LR_5.pdb
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\obj\Debug\LR_5.csprojAssemblyReference.cache
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\obj\Debug\LR_5.Form1.resources
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\obj\Debug\LR_5.Properties.Resources.resources
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\obj\Debug\LR_5.csproj.GenerateResource.cache
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\obj\Debug\LR_5.csproj.CoreCompileInputs.cache
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\obj\Debug\LR_5.exe
+D:\Учёба\БГУИР\3 курс\МИапр\LR_5\LR_5\obj\Debug\LR_5.pdb
+J:\LR_5\LR_5\bin\Debug\LR_5.exe.config
+J:\LR_5\LR_5\bin\Debug\LR_5.exe
+J:\LR_5\LR_5\bin\Debug\LR_5.pdb
+J:\LR_5\LR_5\obj\Debug\LR_5.csprojAssemblyReference.cache
+J:\LR_5\LR_5\obj\Debug\LR_5.Form1.resources
+J:\LR_5\LR_5\obj\Debug\LR_5.InputSizeForm.resources
+J:\LR_5\LR_5\obj\Debug\LR_5.MainForm.resources
+J:\LR_5\LR_5\obj\Debug\LR_5.Properties.Resources.resources
+J:\LR_5\LR_5\obj\Debug\LR_5.csproj.GenerateResource.cache
+J:\LR_5\LR_5\obj\Debug\LR_5.exe
+J:\LR_5\LR_5\obj\Debug\LR_5.pdb
+C:\Users\Vladislav\Desktop\LR_5\LR_5\bin\Debug\LR_5.exe.config
+C:\Users\Vladislav\Desktop\LR_5\LR_5\bin\Debug\LR_5.exe
+C:\Users\Vladislav\Desktop\LR_5\LR_5\bin\Debug\LR_5.pdb
+C:\Users\Vladislav\Desktop\LR_5\LR_5\obj\Debug\LR_5.csprojAssemblyReference.cache
+C:\Users\Vladislav\Desktop\LR_5\LR_5\obj\Debug\LR_5.Form1.resources
+C:\Users\Vladislav\Desktop\LR_5\LR_5\obj\Debug\LR_5.InputSizeForm.resources
+C:\Users\Vladislav\Desktop\LR_5\LR_5\obj\Debug\LR_5.MainForm.resources
+C:\Users\Vladislav\Desktop\LR_5\LR_5\obj\Debug\LR_5.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\LR_5\LR_5\obj\Debug\LR_5.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\LR_5\LR_5\obj\Debug\LR_5.exe
+C:\Users\Vladislav\Desktop\LR_5\LR_5\obj\Debug\LR_5.pdb
